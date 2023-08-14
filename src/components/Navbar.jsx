@@ -13,7 +13,7 @@ const Navbar = () => {
   }
 
   return (
-    <div className=" w-full   bg-zinc-200 fixed drop-shadow-lg">
+    <div className=" w-full   bg-zinc-200 z-10 fixed drop-shadow-lg">
       <div className=" max-w-[1040px] p-4 h-[80px] mx-auto ">
         <div className=" flex items-center h-full w-full justify-between">
           <h1 className=" font-bold text-4xl mr-4 ">Brand.</h1>
