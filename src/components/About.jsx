@@ -2,7 +2,10 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="w-full max-w-[1240px] px-4 py-16 mx-auto bg-white ">
+    <div
+      name="about"
+      className="w-full max-w-[1240px] px-4 py-16 mx-auto bg-white "
+    >
       <div className="w-full flex flex-col px-12 text-center">
         <h2 className=" text-5xl font-bold my-6">
           Trusted by the developer across the world

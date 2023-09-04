@@ -3,7 +3,7 @@ import { CheckIcon } from "@heroicons/react/solid";
 
 const AllInOne = () => {
   return (
-    <div className=" w-full my-20">
+    <div name="platforms" className=" w-full my-20">
       <div className=" max-w-[1240px] px-4 mx-auto">
         <div className=" text-center">
           <h1 className=" text-5xl font-bold py-10">All-In-One Platform</h1>

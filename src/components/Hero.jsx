@@ -10,7 +10,10 @@ import bgimg from "../assets/cyber-bg.png";
 
 const Hero = () => {
   return (
-    <div className=" w-full md:h-screen bg-zinc-200 flex flex-col justify-between px-4">
+    <div
+      name="home"
+      className=" w-full md:h-screen bg-zinc-200 flex flex-col justify-between px-4"
+    >
       <div className="grid  md:grid-cols-2 max-w-[1240px] m-auto ">
         <div className=" flex flex-col justify-center md:items-start mt-16 w-full px-2 py-8">
           <p className=" text-2xl">Unique Sequencing & Production</p>
