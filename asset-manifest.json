@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cloud-app/static/css/main.c24c9d6b.css",
+    "main.js": "/Cloud-app/static/js/main.5ff2b5d6.js",
+    "static/media/support.jpg": "/Cloud-app/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/cyber-bg.png": "/Cloud-app/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/Cloud-app/index.html",
+    "main.c24c9d6b.css.map": "/Cloud-app/static/css/main.c24c9d6b.css.map",
+    "main.5ff2b5d6.js.map": "/Cloud-app/static/js/main.5ff2b5d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c24c9d6b.css",
+    "static/js/main.5ff2b5d6.js"
+  ]
+}
